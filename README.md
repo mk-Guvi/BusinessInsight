@@ -8,14 +8,15 @@ RestApi used from : https://github.com/mk-Guvi/RestApi
 
 TECH STACK :MERN and React-bootstrap.
 
-BusinessInsights: https://affectionate-jackson-01ac20.netlify.app/
 
-RestApi: https://businessbestapi.herokuapp.com/business
+Deployed in Netlify:WebApp: https://affectionate-jackson-01ac20.netlify.app/
+
+Depolyed in Heroku:RestApi: https://businessbestapi.herokuapp.com/business
 
 
 INSTALLATION:
 
-extract the code from https://github.com/mk-Guvi/RestApi  and https://github.com/mk-Guvi/BusinessInsight
+GitHub links  https://github.com/mk-Guvi/BusinessRestapi and https://github.com/mk-Guvi/BusinessInsight
 
 For Rest-API Access:
 
